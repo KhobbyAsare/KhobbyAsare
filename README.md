@@ -7,7 +7,7 @@
 ------------------------------------------  
 As a beginner front-end developer with a passion for creating visually appealing and user-friendly websites, I am constantly striving to improve my skills and knowledge in the field. I have a strong understanding of HTML, CSS, and JavaScript, and am familiar with popular front-end frameworks. I am also experienced in using design tools such as Adobe XD and Photoshop. I am a quick learner, and am always eager to take on new challenges and explore new technologies. My ultimate goal is to create beautiful and functional websites that help businesses and individuals achieve their goals and connect with their audiences. On my Github profile, you can find some of my personal projects that I have worked on to showcase my skills, and also some of the contributions I have made to open-source projects. I am always open to feedback and collaboration opportunities, so feel free to reach out to me! 
 * 🌍  I'm based in Ghana,Accra
-* ✉️  You can contact me at [SamuelAboahAsare](mailto:samuelaboahasare)
+* ✉️  You can contact me at [SamuelAsare](mailto:samuelaboahasare)
 * 🌱  I’m currently learning TypeScript and More of Angular
 * 🤝  I'm open to collaborating on any great project ideas
 * 🤩  I'm a Marvel and DC fun 
