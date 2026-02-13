@@ -7,7 +7,7 @@ Frontend Developer | Angular • React • TypeScript | Python • FastAPI | AWS
 <p align="start">
 I am a Frontend Developer with strong experience in Angular and React with TypeScript, building scalable, secure, and production-ready web applications.
 Beyond the interface, I design backend services using Python and FastAPI, focusing on clean architecture, performance, and maintainable systems. I care deeply about writing structured, testable code and building applications that are reliable in real-world environments.
-With a background in Information Technology and hands-on industry experience, I continuously challenge myself to improve in system design, cloud technologies, and software engineering best practices. I enjoy solving complex problems, optimizing performance, and implementing secure access control in modern applications.
+With a background in Information Technology and hands-on industry experience, I'm continually improving my skills in system design, cloud technologies, and software engineering best practices. I enjoy solving complex problems, optimizing performance, and implementing secure access control in modern applications.
 I am driven by long-term growth, technical depth, and building software that creates real impact.
 </p>
 
@@ -47,5 +47,7 @@ I am driven by long-term growth, technical depth, and building software that cre
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=KhobbyAsare&show_icons=true&theme=tokyonight" height="150" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhobbyAsare&theme=tokyonight" height="150" />
 </p>
+
+<img src="https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="150" />
 
 
