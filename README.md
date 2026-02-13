@@ -4,7 +4,7 @@
 Frontend Developer | Angular • React • TypeScript | Python • FastAPI | AWS
 </p>
 
-<p align="center">
+<p align="start">
 I build scalable, secure, and production-ready web applications.
 Focused on clean architecture, performance, and maintainable systems.
 </p>
@@ -41,11 +41,9 @@ Focused on clean architecture, performance, and maintainable systems.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhobbyAsare&show_icons=true&theme=tokyonight" height="150" />
+<p align="start">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=KhobbyAsare&show_icons=true&theme=tokyonight" height="150" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhobbyAsare&theme=tokyonight" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhobbyAsare&layout=compact&theme=tokyonight" height="150" />
-</p>
+
