@@ -1,55 +1,77 @@
-<h2 align="left">Hi 👋! My name is Samuel Asare Aboah and I'm a Front-end Developer, from Ghana.</h2>
+<h1 align="center">Samuel Asare Aboah</h1>
+<h3 align="center">Frontend Developer | Angular • React • TypeScript | Python & FastAPI | AWS</h3>
 
-###
+<p align="center">
+  Building scalable, secure, and user-focused web applications.
+</p>
+
+---
+
+## 👨🏽‍💻 About Me
+
+I am a Frontend Developer based in Ghana with strong experience in building modern, responsive web applications using Angular and React with TypeScript.
+
+Beyond frontend development, I work with Python and FastAPI to build clean, high-performance backend APIs. I enjoy designing systems that are scalable, maintainable, and secure.
+
+I am continuously improving my skills in cloud technologies, backend architecture, and software engineering best practices.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- JavaScript (ES6+)
+- TypeScript
+- Angular
+- React
+- Next.js
+- Vue.js
+- Nuxt.js
+- HTML5
+- CSS3
+- SASS
+- Tailwind CSS
+
+### Backend
+- Python
+- FastAPI
+- Firebase
+
+### Cloud & DevOps
+- AWS (Cloud Practitioner level)
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhobbyAsare&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=KhobbyAsare&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhobbyAsare&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhobbyAsare&show_icons=true&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=KhobbyAsare&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhobbyAsare&layout=compact&theme=city_lights" height="150" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://images.unsplash.com/photo-1687603917313-ccae1a289a9d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
+## 🎯 What I Focus On
 
-###
+- Building scalable frontend architectures
+- Designing RESTful APIs with FastAPI
+- Writing clean, testable code
+- Improving application performance
+- Implementing secure access control in applications
+- Continuous learning in cloud and distributed systems
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: (Add your link here)
+- Portfolio: (Add link if available)
+- Email: (Add if you want public contact)
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KhobbyAsare/KhobbyAsare/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KhobbyAsare/KhobbyAsare/output/snake.svg" alt="Snake animation" />
-
-###
