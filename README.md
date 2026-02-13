@@ -1,9 +1,5 @@
 <h1 align="start">Hi, I'm Samuel Asare Aboah</h1>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?q=80&w=870&auto=format&fit=crop" width="900"  />
-</p>
-
 <p align="start">
 Frontend Developer | Angular • React • TypeScript | Python • FastAPI | AWS
 </p>
@@ -53,4 +49,6 @@ I am driven by long-term growth, technical depth, and building software that cre
 </p>
 
 
-
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?q=80&w=870&auto=format&fit=crop" width="900"  />
+</p>
