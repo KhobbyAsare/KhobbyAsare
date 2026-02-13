@@ -1,7 +1,7 @@
 <h1 align="start">Hi, I'm Samuel Asare Aboah</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?q=80&w=870&auto=format&fit=crop" width="900" height="200" />
+  <img src="https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?q=80&w=870&auto=format&fit=crop" width="900"  />
 </p>
 
 <p align="start">
