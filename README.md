@@ -4,11 +4,11 @@
 Frontend Developer | Angular • React • TypeScript | Python • FastAPI | AWS
 </p>
 
-<p align="start">
-I am a Frontend Developer with strong experience in Angular and React with TypeScript, building scalable, secure, and production-ready web applications.
-Beyond the interface, I design backend services using Python and FastAPI, focusing on clean architecture, performance, and maintainable systems. I care deeply about writing structured, testable code and building applications that are reliable in real-world environments.
-With a background in Information Technology and hands-on industry experience, I'm continually improving my skills in system design, cloud technologies, and software engineering best practices. I enjoy solving complex problems, optimizing performance, and implementing secure access control in modern applications.
-I am driven by long-term growth, technical depth, and building software that creates real impact.
+<p align="start">I am a Frontend Developer focused on building scalable, production-ready applications with Next.js and TypeScript. My work emphasizes performance, clean architecture, and maintainable codebases.
+
+I have experience with Angular and other modern frameworks, which has strengthened my understanding of frontend architecture and large-scale applications.
+
+Beyond the frontend, I develop backend services using Python and FastAPI, designing secure and efficient systems with a strong focus on structure and reliability. With a background in Information Technology and hands-on industry experience, I continuously refine my skills in system design, cloud technologies, and modern software engineering practices.
 </p>
 
 ---
